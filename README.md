@@ -6,7 +6,7 @@ Contact me: zhouych@foxmail.com
 # compile it before use
 gfortran g09log.f90 -o g09log
 
-#How to use:
+# How to use:
 g09log logfile  jobs 
 
 logfile: the name of gaussian output log filr 
